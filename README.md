@@ -54,9 +54,13 @@ bash <(curl -Ls https://Check.Place) -N
 ```
 wget -qO- bench.sh | bash
 ```
-# Yet-Another-Bench-Script（更详细，支持 Geekbench）
+## Yet-Another-Bench-Script（更详细，支持 Geekbench）
 ```
 curl -sL yabs.sh | bash -s -- -i
+```
+## 融合怪
+```
+bash <(wget -qO- ecs.0s.hk)
 ```
 ---
 
