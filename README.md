@@ -74,7 +74,8 @@ bash <(wget -qO- ecs.0s.hk)
 
 - [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent)  
   🔹 V2Ray/XTLS/Trojan 一键脚本，支持多协议。
-
+- [ike-sh/bbrv3-lite](https://github.com/ike-sh/bbrv3-lite)  
+  🔹 轻量级 BBR v3 / XanMod / TCP 网络调优脚本 
 - [fscarmen/sing-box](https://github.com/fscarmen/sing-box)  
   🔹 Sing-box 一键脚本，支持多种代理协议和面板。
 
